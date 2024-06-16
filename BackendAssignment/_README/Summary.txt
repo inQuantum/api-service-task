@@ -1,0 +1,11 @@
+
+Name of Assignee:
+Sergei Abmanzin
+
+Approximate time taken to complete the assignment:
+3-4h
+
+One thing that I would suggest to improve about this assignment:
+- A clearer description.
+Personally, I lacked a specific description of the context. The meaning of ApiService and what task it performs.
+- It would be cool to have tougher/heavier tests.
